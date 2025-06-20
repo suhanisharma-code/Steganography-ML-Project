@@ -1,0 +1,7 @@
+_pycache_/
+*.pyc
+*.pkl
+*.png
+dist/
+build/
+*.spec
